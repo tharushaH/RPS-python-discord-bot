@@ -14,9 +14,9 @@ Please ensure that you install discord.py and tinyDB.py.
 
 ## Built With
 
-*Python
-*tinyDB
-*discord.py
+* Python
+* tinyDB
+* discord.py
 
 ## Authors
 
